@@ -1,9 +1,9 @@
 # WeatherForecast-Serverside
-<h4>Description</h4><br />
+<h4>Description</h4>
 <p>This is a webpage that allows you to search for weather information using the Google Geocode and Forecast.io APIs, and the results will be displayed in tabular format.
 </p>
 <div>
-<h4>Search Form</h4><br />
+<h4>Search Form</h4>
 <ul>
 <li>A user first opens a page, called forecast.php, where he/she can enter an address (street, city, and state) and select the temperature unit (Fahrenheit, Celsius).</li>
 <li>The form should include a forecast.io disclaimer, linking to ‘http://forecast.io/’.</li>
